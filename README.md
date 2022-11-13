@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @theclassie
-- 👀 I’m interested in Full Stack Design, Gaming Streaming Industry, and Media Algorithims 
+- 👋 Hi, I’m Tris!
+- 👀 I’m interested in becoming a Full Stack Designer, meaning Full Stack Development & UX/UI Designer. I'd love to be able to work with a start up.
 - 🌱 I’m currently learning Full Stack Development and UX/UI Design
-- 💞️ I’m looking to collaborate with Live Streamers, Streaming Platforms, and Start Ups
+- 💞️ I’m looking to collaborate with Start Ups and the Video Game Industry
 - 📫 How to reach me trisclassie@gmail.com 
 
 <!---
