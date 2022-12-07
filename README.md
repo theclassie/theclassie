@@ -1,7 +1,6 @@
 - 👋🏻 Hi, I’m Tris!
 - 🔭 I’m interested in becoming a Full Stack Designer, meaning Full Stack Development & UX/UI Designer.
 - 🌱 I’m currently learning Full Stack Development and UX/UI Design
-- 👩🏻‍💻 I’m looking to collaborate with Start Ups and the Video Game Industry
 - 📫 How to reach me trisclassie@gmail.com 
 
 <!---
